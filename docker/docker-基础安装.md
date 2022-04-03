@@ -1,6 +1,6 @@
 @Link[官方]：https://docs.docker.com/engine/install/centos/
 
-Docker 要求 CentOS 系统的内核版本高于 3.10 ，首先验证你的服务器是否支持Docker！
+Docker 要求 CentOS 系统的内核版本高于 3.10 ，首先验证你的服务器是否支持Docker。
 
 通过 **uname -r** 命令查看当前的内核版本
 
